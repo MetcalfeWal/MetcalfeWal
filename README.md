@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python to crunch Big Data, Data Lake, Data Integration, and Web3 IPFS.
 - 💞️ I’m looking to collaborate on Web3 projects and newsletters.
 - 📫 Reach me on [𝕏](https://x.com/intent/user?screen_name=MetcalfeWal)
-- 📰 Read free Web3 Education Newsletter [here](https://metcalfe.substack.com/). New post on every 1st. No spam.
+- 📰 Read my FREE Web3 Education Newsletter [here](https://metcalfe.substack.com/). New post on every 1st. No spam.
 
 <!---
 MetcalfeWal/MetcalfeWal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
