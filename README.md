@@ -1,7 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m @MetcalfeWal
-- 👀 I’m interested in Web3, blockchain, IPFS, Unstoppable Domain, newsletter, data analysis.
+- 👀 I’m interested in Web3, blockchain, DeFi, IPFS, Unstoppable Domain, newsletter, data analysis.
 - 🌱 I’m currently learning Python to crunch Big Data, Data Lake, Data Integration, and Web3 IPFS.
 - 💞️ I’m looking to collaborate on Web3 projects and newsletters.
 - 📫 Reach me on [𝕏](https://x.com/intent/user?screen_name=MetcalfeWal)
